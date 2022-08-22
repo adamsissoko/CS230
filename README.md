@@ -2,7 +2,7 @@
 
 ## Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
-The client had a game called Draw IT or Lose It, and it was only available on android. They wanted to recreate their game on other operating platforms and get more customers.
+The client had a game called Draw It or Lose It, and it was only available on android. They wanted to recreate their game on other operating platforms and get more customers.
 
 ## What did you do particularly well in developing this documentation?
 
